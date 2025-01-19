@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub Favorite</string>
+    <string name="search">search</string>
+    <string name="name_user">name</string>
+    <string name="user">user</string>
+    <string name="username">username</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="DetailActionBar">Detail User</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="tab_1">follower</string>
+    <string name="tab_2">following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
